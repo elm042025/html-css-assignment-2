@@ -49,6 +49,7 @@ p {
   color: hsla(0, 0%, 100%, 0.75);
   line-height: 1.6;
 }
+
 .car-sec button {
   background-color: hsl(0, 0%, 95%);
 }
@@ -83,6 +84,8 @@ p {
   margin-top: 50px;
   transition: 0.2s;
 }
+
+/** hover effect for learn more button */
 
 .learn-more-btn:hover {
   transform: scale(1.1);
