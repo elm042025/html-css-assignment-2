@@ -31,13 +31,13 @@ main {
   display: flex;
   flex-direction: column;
   align-items: start;
-  justify-content: start;
-  padding: 50px 50px;
+  justify-content: space-around;
+  padding: 3rem 3rem;
 }
 .car-sec img,
 h1,
 p {
-  margin-bottom: 30px;
+  /* margin-bottom: 1.8rem; */
 }
 .car-sec h1 {
   color: hsl(0, 0%, 95%);
@@ -79,9 +79,9 @@ p {
   font-family: "Lexend Deca", sans-serif;
   font-size: medium;
   border: none;
-  border-radius: 50px;
-  padding: 15px 35px;
-  margin-top: 50px;
+  border-radius: 3rem;
+  padding: 1rem 2.3rem;
+  margin-top: 3rem;
   transition: 0.2s;
 }
 
